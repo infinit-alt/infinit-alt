@@ -1,10 +1,10 @@
 # Hello, I'm Gulshan Singh 👋
 
 ## 👨‍💻 About Me:
-- 🔭 I’m currently working on **Infinix-Alt** project.
+- 🔭 I’m currently working on **Infinit-Alt** project.
 - 🌱 I’m learning **Web Development**, **Machine Learning**, and **Blockchain**.
 - 💬 Ask me about **JavaScript**, **Python**, **React**, and **Django**.
-- 📫 How to reach me: **gulshan@infinixalt.com**
+- 📫 How to reach me: **gulshan@infinitalt.com**
 - ⚡ Fun fact: I'm passionate about tech, open source, and gaming!
 
 ---
@@ -20,17 +20,17 @@
 ## 🧑‍💻 GitHub Stats
 
 ### GitHub Stats:
-![Gulshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=infinix-alt&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Gulshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=infinit-alt&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
 ### GitHub Streak:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=infinix-alt&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=infinit-alt&theme=dark)
 
 ---
 
 ### Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infinix-alt&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infinit-alt&layout=compact&theme=dark)
 
 ---
 
@@ -43,12 +43,12 @@
 ---
 
 ## 🚀 Animation & More:
-![Gulshan's GitHub Animation](https://github-profile-trophy.vercel.app/?username=infinix-alt&theme=radical&row=1&column=4&margin-w=15&margin-h=15)
+![Gulshan's GitHub Animation](https://github-profile-trophy.vercel.app/?username=infinit-alt&theme=radical&row=1&column=4&margin-w=15&margin-h=15)
 
 ---
 
 ## 🛠️ Projects:
-- 🔗 [Project 1](https://github.com/infinix-alt/project1)
-- 🔗 [Project 2](https://github.com/infinix-alt/project2)
-- 🔗 [Project 3](https://github.com/infinix-alt/project3)
+- 🔗 [Project 1](https://github.com/infinit-alt/project1)
+- 🔗 [Project 2](https://github.com/infinit-alt/project2)
+- 🔗 [Project 3](https://github.com/infinit-alt/project3)
 
